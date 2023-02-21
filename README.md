@@ -6,8 +6,9 @@
 
 ## Tools:
 
-- gcloud CLI
+- gcloud cli
 - Terraform
+- Kubernetes
 - Docker
 
 ## How to Use:
@@ -15,7 +16,7 @@
 ### Local Steps:
 
 - Clone the repository
-- Make sure you have installed gcloud CLI , Terraform and Docker
+- Make sure you have installed gcloud cli, Terraform and Docker
 - Authenticate your user by running
   `gcloud init`
 - Navegate to the Application diorectory and build the app using docker by running:
